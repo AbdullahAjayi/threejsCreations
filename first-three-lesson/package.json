@@ -1,0 +1,13 @@
+{
+  "name": "first-three-lesson",
+  "version": "1.0.0",
+  "description": "First three js scene",
+  "main": "main.js",
+  "scripts": {},
+  "author": "Abdullah Ajayi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdullahAjayi/threejsCreations/issues"
+  },
+  "homepage": "https://github.com/AbdullahAjayi/threejsCreations#readme"
+}
